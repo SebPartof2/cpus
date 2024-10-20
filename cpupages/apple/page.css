@@ -1,6 +1,30 @@
-.pagehead{
+.pageHead{
     border: solid;
     font-family: Arial;
     padding: 25px 0 25px 0;
     text-align: center;
+}
+.cpuImage{
+    display: block;
+    margin: 0 auto;
+}
+body{
+    background-color: gainsboro;
+}
+.specs{
+    text-align: center;
+    border: solid mediumslateblue;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: arial;
+    margin: 30px;
+}
+.productLink{
+    font-family: Arial;
+    padding: 10px;
+    border: solid mediumslateblue;
+    display: block;
+    margin: 0 200px 0 200px;
+    text-align: center;
+    color: black;
 }
